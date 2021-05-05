@@ -1,8 +1,8 @@
 # BillingSystem_PythonMiniProject_2021006_2021013
        
-       1. Bhumi Panchal(2021006)(A4 Batch)
+       1. Bhumi Panchal (2021006)(A4 Batch)
 
-       2. Isha Jain(2021013)(B4 Batch)
+       2. Isha Jain     (2021013)(B4 Batch)
 
 Class : Second Year (Computer Engineering)
 
